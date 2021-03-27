@@ -1,6 +1,6 @@
 /**
  * Convert all applicable characters to HTML entities.
- * @param str- input string
+ * @param str - input string
  * @returns - Converted string
  */
 export function encodeHTMLEntities(str: string) {
