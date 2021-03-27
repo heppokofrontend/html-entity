@@ -1,7 +1,7 @@
 {
   "name": "@heppokofrontend/html-entity",
   "description": "Encodes and decodes an HTML Entity.",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "heppokofrontend",
   "bugs": {
     "url": "https://github.com/heppokofrontend/html-entity/issues"
